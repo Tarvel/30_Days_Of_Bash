@@ -1,0 +1,1 @@
+Today I learned about Bash (Bourne again shell), a command-line interface and scripting language for Unix-like systems like linux. Bash can be used for automating tasks, system administration and scripting, it also allows user interact with the command line.
