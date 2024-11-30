@@ -1,0 +1,1 @@
+Today I learned about how variables are used to store different types of data (string, integer, lists, dictionaries)
