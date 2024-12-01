@@ -1,0 +1,2 @@
+Tday, I learnt about Control flow the use of if, elif and else with test commands like comparison operators like equal to; -eq (for integers) =(for strings) 
+I also did some exercises to learn more about how to use the if condition with test commands
