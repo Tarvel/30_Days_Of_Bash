@@ -4,3 +4,5 @@
 2>: Redirect Standard error to a file
 &>: Redirect both stdout and stderr to a file
 
+
+here_documents
